@@ -91,7 +91,7 @@ input::-webkit-input-placeholder {
     font-size: 14px !important;
 }
 /* main wrapper */
-._1sk6,
+._1sk6, 
 ._1suk {
     background-color: #373832 !important;
     border-radius: 2pt;
@@ -185,6 +185,14 @@ path#Fill-2 {
 }
 ._7oal {
     background-color: #25251e;
+}
+._7mkk._7t1o {
+    background-color: #282820;
+    border-top: 1px solid #444;
+    border-bottom: 1px solid #222;
+}
+._7mkk._7t1o._7t0e ._7oal {
+    background-color: #282820; 
 }
 ._29_7 ._hh7:active,
 ._-5k ._hh7,
