@@ -7,6 +7,13 @@ body,
     font-size: 11px !important;
     line-height: 12pt;
 }
+
+/* WTF facebook... you are animating this main div to be too large for a few seconds, and then fit again, all in javascript. wtf is wrong with these so-called engineers?
+*/
+div.uiContextualLayerPositioner._4owc.uiLayer {
+    width: auto !important;
+}
+
 ._4sp8,
 ._1htf,
 ._3eus,
